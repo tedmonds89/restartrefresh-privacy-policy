@@ -124,5 +124,3 @@ For questions about this Privacy Policy or data handling, contact:
 
 **DigitalSystemsStudio**  
 Email: tedmonds89@outlook.com
-(Or your preferred contact method)
-
