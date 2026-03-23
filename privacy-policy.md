@@ -1,18 +1,25 @@
-# Privacy Policy  
-Last updated: March 2026  
+# Privacy Policy
+Last updated: March 2026
 
-This Privacy Policy describes how RestartRefresh and DigitalSystemsStudio (“we”, “our”, “the application”) handle information when you use our tools, including Pinterest-related automation features.
+This Privacy Policy explains how RestartRefresh and DigitalSystemsStudio (“we”, “our”, “the application”) handle information when using our internal, single‑user productivity and marketing automation tools. These tools support content creation, Pinterest scheduling, and analytics for the owner’s personal business accounts.
 
-Our applications are local‑first productivity and marketing tools used to create content, schedule Pins, and analyze performance for personal business accounts. We do not sell data, share data with third parties, or collect unnecessary personal information.
+This application is used **solely by the owner and creator** of RestartRefresh and DigitalSystemsStudio. No other users have access to the app, and no multi‑user features exist.
+
+We do not sell data, share data with third parties, or collect unnecessary personal information.
 
 ---
 
 ## 1. Information We Collect
 
-### 1.1 Information You Provide  
-We may collect the following information only when you choose to provide it:
-- Basic account information required for authentication (e.g., Pinterest OAuth tokens)
-- Content you create or upload within the application (e.g., Pin images, titles, descriptions)
+### 1.1 Single‑User Scope
+This application is designed for **personal use only**.  
+Only the owner’s information is ever accessed or processed.  
+No other Pinterest users can authenticate, connect, or use the app.
+
+### 1.2 Information You Provide
+We may handle the following information only when you choose to provide it:
+- Pinterest OAuth tokens for authentication
+- Content you create (e.g., Pin images, titles, descriptions)
 - Settings or preferences you configure inside the app
 
 We do **not** collect sensitive personal information.
@@ -21,32 +28,39 @@ We do **not** collect sensitive personal information.
 
 ## 2. Pinterest API Data
 
-When connecting your Pinterest account, we access only the data explicitly granted through Pinterest’s OAuth authorization process.
+The application connects only to the owner’s Pinterest account through the official Pinterest OAuth process.
 
-This may include:
+### 2.1 Data Accessed
+The app may access:
 - Your Pinterest profile name and ID  
 - Boards and Pins you own  
-- Analytics data for your own content  
+- Analytics for your own content  
 - Permissions required to publish Pins or schedule content  
 
-We do **not** access:
+### 2.2 Data Not Accessed
+The app does **not** access:
 - Follower data  
-- Private user data  
+- Private or sensitive user data  
 - Data from accounts you do not own  
 - Any information not provided through the official Pinterest API  
 
+### 2.3 No Scraping
 We do **not** scrape Pinterest or collect data outside of the API.
 
 ---
 
 ## 3. How We Use Data
 
-We use your data solely to provide the features of the application, including:
+All Pinterest data is used exclusively to support the owner’s personal business workflows, including:
 - Generating and publishing Pins  
 - Scheduling content  
 - Managing boards  
 - Displaying analytics and performance insights  
-- Improving your workflow and productivity  
+
+Because the app is single‑user only:
+- No data is shared with others  
+- No data is displayed to other users  
+- No multi‑user features exist  
 
 We do **not** use your data for advertising, resale, or profiling.
 
@@ -54,13 +68,15 @@ We do **not** use your data for advertising, resale, or profiling.
 
 ## 4. Data Storage
 
-Our tools are designed to be **local‑first**.  
-This means:
-- Most data is stored on your device  
-- We do not store Pinterest data on external servers  
-- OAuth tokens are stored securely and used only for authenticated API requests  
+Our tools are designed to be **local‑first**.
 
-If analytics or metadata is cached, it is used only to display dashboards and is not shared externally.
+This means:
+- All data is stored on the owner’s device  
+- No cloud servers or external databases are used  
+- OAuth tokens are stored securely and used only for authenticated API requests  
+- Cached analytics or metadata are used only for local dashboards  
+
+No Pinterest data is stored or shared externally.
 
 ---
 
@@ -81,7 +97,7 @@ The only time data is transmitted is when:
 ## 6. Security
 
 We take reasonable measures to protect your information, including:
-- Secure storage of OAuth tokens  
+- Secure local storage of OAuth tokens  
 - Use of HTTPS for all API communication  
 - No unnecessary data retention  
 
@@ -91,7 +107,7 @@ However, no system is completely secure, and you use the application at your own
 
 ## 7. Children’s Privacy
 
-Our tools are not intended for children under 13 and do not knowingly collect information from minors.
+This application is not intended for children under 13 and does not knowingly collect information from minors.
 
 ---
 
@@ -104,7 +120,9 @@ The “Last updated” date at the top will reflect the most recent revision.
 
 ## 9. Contact
 
-If you have questions about this Privacy Policy or how your data is handled, you may contact:
+For questions about this Privacy Policy or data handling, contact:
 
-RestartRefresh
-Email: tedmonds89@outlook.com  
+**DigitalSystemsStudio**  
+Email: tedmonds89@outlook.com
+(Or your preferred contact method)
+
